@@ -1,3 +1,4 @@
 body {
-  background: #070506 url("img/main-bg.png");
+  background: #070506 url("/img/main-bg.png");
+  color: #FFFFFF;
 }
