@@ -1,4 +1,6 @@
 body {
-  background: #070506 url("/img/main-bg.png");
-  color: #FFFFFF;
+  background: #070506;
+  background-image:url("img/mainbg.png");
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
 }
